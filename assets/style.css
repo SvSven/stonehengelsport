@@ -75,7 +75,8 @@ a:visited {
   border: solid 1px transparent;
   transition: background .3s, border-color .3s;
   background: #e5e9f0;
-  margin: 2px;
+  margin: 5px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.18);
 }
 
 .link:link,
